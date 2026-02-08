@@ -1,66 +1,71 @@
-# 🎓 Certifications Repository
+# 🎓 Professional Certifications Portfolio
 
-This repository contains my professional and academic certifications related to **Cloud Computing, Networking, and Responsible Artificial Intelligence**.  
-These certifications demonstrate my commitment to continuous learning and building industry-relevant skills.
-
----
-
-## 🏆 Certifications
+Welcome to my **Certifications Repository** 🚀  
+This repository showcases my verified certifications in **Cloud Computing, Networking, and Responsible Artificial Intelligence**, reflecting my dedication to continuous learning and industry-ready skills.
 
 ---
 
-### ☁️ Microsoft Azure Administrator
-- **Platform:** Microsoft / Azure  
-- **Focus Areas:**  
-  - Azure Virtual Machines  
-  - Azure Storage  
-  - Azure Networking  
-  - Identity & Access Management  
-  - Monitoring and Security  
+## 🏅 Certifications Overview
 
-📄 **Certificate File:** `AZURE_ADMINISTRATOR.pdf`
+| Area | Certification |
+|----|----|
+☁️ Cloud Computing | Microsoft Azure Administrator  
+🌐 Networking | Bits and Bytes of Computer Networking  
+🤖 Artificial Intelligence | Responsible AI and Safe Systems (NPTEL)  
 
 ---
 
-### 🌐 Bits and Bytes of Computer Networking
-- **Platform:** Online Learning Platform  
-- **Skills Covered:**  
-  - Computer Networking Fundamentals  
-  - TCP/IP Model  
-  - OSI Model  
-  - Network Protocols  
-  - Internet Architecture  
+## ☁️ Microsoft Azure Administrator
 
-📄 **Certificate File:** `Bits_And_Bytes_Networking.pdf`
+📌 **Issued By:** Microsoft Azure  
+📌 **Domain:** Cloud Administration  
 
----
+### 🔍 Skills & Concepts
+- Azure Virtual Machines & Storage  
+- Azure Networking & VPC Concepts  
+- Identity & Access Management (IAM)  
+- Monitoring, Security & Compliance  
 
-### 🤖 Responsible AI and Safe Systems (NPTEL)
-- **Platform:** NPTEL  
-- **Course Title:** Responsible AI and Safe Systems  
-- **Key Learnings:**  
-  - Ethical AI Design  
-  - AI Safety and Risk Management  
-  - Fairness, Transparency, and Accountability  
-  - Social Impact of AI Systems  
-
-📄 **Certificate File:** `NPTEL_Certificate.pdf`
+📄 **Certificate:** `AZURE_ADMINISTRATOR.pdf`
 
 ---
 
-## 🎯 Purpose of This Repository
-- Maintain a **centralized record** of certifications  
-- Showcase verified skills to **recruiters and peers**  
-- Support **resume and LinkedIn profile references**
+## 🌐 Bits and Bytes of Computer Networking
+
+📌 **Domain:** Computer Networks  
+
+### 🔍 Skills & Concepts
+- OSI & TCP/IP Models  
+- Network Protocols  
+- Internet Architecture  
+- Routing & Data Transmission  
+
+📄 **Certificate:** `Bits_And_Bytes_Networking.pdf`
 
 ---
 
-## 👤 Author
+## 🤖 Responsible AI and Safe Systems (NPTEL)
+
+📌 **Issued By:** NPTEL  
+📌 **Domain:** Ethical & Safe Artificial Intelligence  
+
+### 🔍 Skills & Concepts
+- Ethical AI Design Principles  
+- AI Safety & Risk Assessment  
+- Fairness, Transparency & Accountability  
+- Social & Legal Impact of AI Systems  
+
+📄 **Certificate:** `NPTEL_Certificate.pdf`
+
+## 👤 About Me
+
 **Reema**  
 🎓 B.Tech Information Technology  
-💼 Aspiring Data Analyst | Java Developer | Cloud Enthusiast  
+💼 ☁️ Cloud Engineer
 
 🔗 **GitHub:** https://github.com/Reema596  
-🔗 **LinkedIn:** https://www.linkedin.com/in/reema12/
+🔗 **LinkedIn:** https://www.linkedin.com/in/reema12/ 
 
 ---
+
+⭐ *If you find this repository useful, feel free to star it!* ⭐
